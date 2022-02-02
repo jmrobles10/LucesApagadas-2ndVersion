@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./
+Class-Path: .
+Rsrc-Main-Class: uniandes.cupi2.lucesApagadas.interfaz.InterfazLucesAp
+ agadas
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
